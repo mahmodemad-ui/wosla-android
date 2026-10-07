@@ -1,0 +1,6 @@
+{
+  "appId": "com.wosla.delivery",
+  "appName": "وصلة",
+  "webDir": "dist",
+  "android": {"backgroundColor": "#F6F8F5", "allowMixedContent": false}
+}
